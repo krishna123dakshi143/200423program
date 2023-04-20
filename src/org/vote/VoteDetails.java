@@ -12,7 +12,9 @@ public class VoteDetails {
 		else {
 			System.out.println(" eligible");
 		}
+	
 		
+		System.out.println("fyfkgkgku");
 	
 	}
 
